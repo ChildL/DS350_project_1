@@ -1,0 +1,40 @@
+---
+title: "Task 2"
+format:
+  html:
+    code-fold: true
+execute:
+  keep-md: true
+  
+  
+---
+```{r}
+plot(1:20)
+```
+## Data Visualization Articles
+
+-   [Bootcamp Satisfaction Statistics: What Jobs Can You Get After a Coding Bootcamp?](https://priceonomics.com/bootcamp-satisfaction-statistics-what-jobs-can-you/)
+
+Coding bootcamps increased in popularity during the COVID pandemic as a solution for entrance into salary paying jobs and avoiding online classes or the wait to continue a standard college education. There are several graphs representing the satisfaction of participants, their field, satisfaction of employers of bootcamp graduates vs. degree job holders. The graphs had a consistent color theme, they were easy to read, and were positioned along a common scale. The scales ranged from large to small in ranking except the first graph which also was helpful. The first bar graph could be changed from least to greatest to match the rest of the graphs that go from greatest to least. The ratings were consistent 1-5 on each graph. The dual graphs side by side for "most" and "least" make sense why they reverse order. The article is actually super interesting as bootcamps and free learning opportunities are on the rise.
+
+-   [How Much Did Cryptocurrency Mining Inflate GPU Prices?](https://priceonomics.com/how-has-cryptocurrency-mining-influenced-gpu-prices/)
+
+From the article I realize that mining cryptocurrencies is not for the majority of us, but if you have the power and ability it can be profitable. The graph is colorful and detailed. I may be wrong but it seems like the graph is on an identical position by not always aligned scales. The median price is identified, but the red line does not say what it represents, which isn't obvious without more than skim reading the article. The colors of some of the categories don't stand out enough. The overlay does help with comparisons. The lower graph is simple for showing the prices GPU's needed for mining cryptocurrencies, I presume. Hue is used for each category.
+
+-   [5 Ways Writers Use Misleading Graphs To Manipulate You](https://venngage.com/blog/misleading-graphs/)
+
+This was so fun to read and see how graphs are misused or misrepresented. All of us may remember the FoxNews report about statistics on Christianity decreasing. They showed a bar graph that visually represented a large decrease. The bar graph did not start at 0 and made the gap look much larger than the percentage difference it actually was. This was not only a bad graph which should have started at "0" but was also bad reporting. Another graph in the website shows that too much information on one graph is useless. This often happened with COVID statistics.
+
+-   [Happiness Data](https://ourworldindata.org/happiness-and-life-satisfaction)
+
+The world data has charts and graphs representing happiness in several different formats and with different questions. One of the illustrations that stands out is a distribution of self reported satisfaction with life by region. Each region of the world is represented with a histogram, color by region, separate, and scaled equally. One illustration that good but lacks in accuracy because of categorizes "very satisfied" and "fairly satisfied"together. The graph is live and the numbers can be traced which helps for specific comparisons by years with the numbers popping up for all three regions. Hard to say much bad about them because it seems they have it figured out.
+
+::: callout-note
+I really don't know what I am talking about on the graphs contained in each of the articles, but hope to know more after reading "Good Graphs".
+:::
+
+::: {.callout-caution collapse="true"}
+## Expand To Learn About Me
+
+I have a degree in Marketing. My kids are grown-up and in college so I now have time to take classes and stimulate my brain. The learning curve is a steep incline and not always fun, but somehow I have a small drive to keep going. I also have a wonderful husband as a great support and cheerleader and kids that think it is awesome that I made a video game and started gaming on my own games.
+:::
